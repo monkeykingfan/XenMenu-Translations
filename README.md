@@ -20,7 +20,7 @@ We appreciate all of you who made a contribution!
 - **Czech**: SkyCityCZ
 - **Dutch:** 7eye^^ & Senex
 - **Finnish:** DNSMaster
-- **French:** L3GRIB
+- **French:** L3GRIB & Pam
 - **German:** RainerReinfall & triniox & BlackDeer
 - **Italian:** davidebic
 - **Malay:** Muz
