@@ -9,6 +9,15 @@ If you'd like to make an addition to this repository, please don't hesitate to s
 - Please do not remove existing authors when updating files. You are always free to make edits to existing languages, but that does not mean you get to be the sole author of the language. Feel free to add yourself to the author line, though!
 - Should there be any doubt about formality, choose an informal method of addressing the user. Please do not contact us with other language-specific questions. You are the translator and should be able to translate correctly.
 
+### Testing your translation
+To test your translation before making a commit, please see the instructions below.
+
+1. Launch GTA V and inject XenMenu like normal. Don't open it yet.
+2. Using Windows Explorer, browse to the XenMenu folder in your Documents.
+3. Open the Translations folder, and paste your own translation file. Choose to overwrite any existing file that may exist.
+4. Go back to GTA V and open XenMenu.
+5. Go to Settings > Language and select the language you just updated or added.
+
 ### Contact
 If you're running into issues regarding translations or have general questions, feel free to contact **Senex** on our [Discord](https://xenmenu.com/discord/) or here on GitHub (via **@Senexis**). 
 
