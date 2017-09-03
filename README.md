@@ -27,16 +27,17 @@ We appreciate all of you who made a contribution!
 - **Translation Manager:** Senex
 - **Autistic:** DomBooker ⭐
 - **Czech**: SkyCityCZ
+- **Danish:** Rysholt
 - **Dutch:** 7eye^^ & Senex
 - **Finnish:** DNSMaster
 - **French:** L3GRIB & Pam
-- **German:** RainerReinfall & triniox & BlackDeer
+- **German:** RainerReinfall, triniox & BlackDeer
 - **Italian:** davidebic
 - **Malay:** Muz
 - **Polish:** KoriaN
-- **Portuguese:** GuYodaGCS
+- **Portuguese:** GuYoda & Zmyle_
 - **Romanian:** xVince
 - **Russian:** lenololy
 - **Spanish:** Rysholt & Zmyle_
 - **Traditional Chinese:** XavierDolan
-- **Turkish:** dermancolak
+- **Turkish:** DermanColak
