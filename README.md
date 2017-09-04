@@ -31,7 +31,7 @@ We appreciate all of you who made a contribution!
 - **Dutch:** 7eye^^ & Senex
 - **Finnish:** DNSMaster
 - **French:** L3GRIB & Pam
-- **German:** RainerReinfall, triniox & BlackDeer
+- **German:** RainerReinfall, triniox, LeonZewe & BlackDeer
 - **Italian:** davidebic
 - **Malay:** Muz
 - **Polish:** KoriaN
