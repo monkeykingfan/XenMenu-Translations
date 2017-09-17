@@ -633,11 +633,20 @@
 	"Max Vehicle Speed": "Maximale snelheid",
 	"Auto TP to Waypoint": "Automatisch naar marker teleporteren",
 	"Prop Gun": "Prop pistool",
-	"Smash": "Rammen",
 	"Reset Settings": "Instellingen herstellen",
 	"Crash Player": "Laat spel crashen",
 	"Add to Favourites": "Aan favorieten toevoegen",
 	"Remove from Favourites": "Van favorieten verwijderen",
 	"Exclude Friends from Online Options": "Vrienden negeren in online opties",
-	"Reset Search_tooltip": "Wist de huidige zoekopdracht en laat alle modellen weer zien."
+	"Reset Search_tooltip": "Wist de huidige zoekopdracht en laat alle modellen weer zien.",
+  "Close Control": "Close Control",
+  "Drop Money Bags": "Drop Money Bags",
+  "~c~Drop Stealth Bags": "~c~Drop Stealth Bags",
+  "~c~Drop Stealth Bags_tooltip": "This is a VIP-Only feature, upgrade your account at https://xenmenu.com to unlock money drops and more!",
+  "Drop Delay": "Drop Delay",
+  "Money Drop Bypass": "Money Drop Bypass",
+  "Money Drop Bypass": "Not required, but could evade bans. Dropping without this is considered to be, for the most part, unsafe. However, if others can't pick up your money bags, consider disabling this.",
+  "Stealth Money": "Stealth Money",
+  "Stealth Money_tooltip": "This is recommended if some tooltips show \"ERROR\" or \"UNKNOWN\".",
+  "Smash": "Smash"
 }

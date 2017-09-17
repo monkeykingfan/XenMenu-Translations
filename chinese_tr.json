@@ -633,10 +633,19 @@
 	"Max Vehicle Speed": "最大載具速度",
 	"Auto TP to Waypoint": "自動傳送到目的地",
 	"Prop Gun": "物體槍",
-	"Smash": "毀滅",
 	"Reset Settings": "重置設置",
 	"Crash Player": "崩潰玩家",
 	"Add to Favourites": "添加到收藏",
 	"Remove from Favourites": "從收藏中去除",
-	"Exclude Friends from Online Options": "線上選項排除好友"
+	"Exclude Friends from Online Options": "線上選項排除好友",
+  "Close Control": "Close Control",
+  "Drop Money Bags": "Drop Money Bags",
+  "~c~Drop Stealth Bags": "~c~Drop Stealth Bags",
+  "~c~Drop Stealth Bags_tooltip": "This is a VIP-Only feature, upgrade your account at https://xenmenu.com to unlock money drops and more!",
+  "Drop Delay": "Drop Delay",
+  "Money Drop Bypass": "Money Drop Bypass",
+  "Money Drop Bypass": "Not required, but could evade bans. Dropping without this is considered to be, for the most part, unsafe. However, if others can't pick up your money bags, consider disabling this.",
+  "Stealth Money": "Stealth Money",
+  "Stealth Money_tooltip": "This is recommended if some tooltips show \"ERROR\" or \"UNKNOWN\".",
+  "Smash": "Smash"
 }
