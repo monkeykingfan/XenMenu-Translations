@@ -660,5 +660,7 @@
 	"Drop Stealth Bags": "BRUSH MONEY 600K BAG",
 	"Stealth Value": "BRUSH MONEY AMOUNT",
 	"Drop Money": "give maunis",
-	"Send Kamikaze Jet": "send edgy plane"
+	"Send Kamikaze Jet": "send edgy plane",
+	"MONEY DROPS": "MONEY DROPS",
+	"Money": "Money"
 }
