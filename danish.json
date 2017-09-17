@@ -69,7 +69,7 @@
 	"Stop Animation": "Stop Animation",
 	"Stop Scenario": "Stop Scenarie",
 	"Clipset Options": "Clipset Muligheder",
-	"Clipset": "Genstart Clipset",
+	"Reset Clipset": "Genstart Clipset",
 	"Random Variations": "Tilfældige Variationer",
 	"Random Variations_tooltip": "Hvis denne er slået til, vil der hver gang du ændrer model, være en tilfældig variation af den model du har valgt.",
 	"Component": "Komponent",
