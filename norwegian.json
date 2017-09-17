@@ -438,8 +438,9 @@
 	"Alpha": "Alfa",
 	"Font": "Font",
 	"Language": "Språk",
+	
 	"0comment_NEW_IN_XEN_1.0.1": "DONT CHANGE THIS",
-	"Read Translation File": "Read Translation File",
+	"Read Translation File": "Les Oversettelsesfil",
 	"Flags": "Flagg",
 	"Rainbow Fade": "Regnbue-Fade",
 	"Rainbow Flicker": "Regnbue-flikker",
@@ -658,6 +659,6 @@
 	"Stealth Value": "Skjult-Verdi",
 	"Drop Money": "Dropp Penger",
 	"Send Kamikaze Jet": "Send Kamikaze Jetfly",
-	"MONEY DROPS": "MONEY DROPS",
-	"Money": "Money"
+	"MONEY DROPS": "PENGEDROPP",
+	"Money": "Penger"
 }
