@@ -34,6 +34,7 @@ We appreciate all of you who made a contribution!
 - **German:** RainerReinfall, triniox & LeonZewe
 - **Italian:** davidebic
 - **Malay:** Muz
+- **Norwegian:** Plebbimon
 - **Polish:** KoriaN
 - **Portuguese:** GuYoda & Zmyle_
 - **Romanian:** xVince
