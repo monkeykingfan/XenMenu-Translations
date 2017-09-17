@@ -661,6 +661,7 @@
 	"Drop Money": "Drop Penge",
 	"Send Kamikaze Jet": "Send Kamikaze Jet",
 	"MONEY DROPS": "PENGE DROPS",
-	"Money": "Penge"
+	"Money": "Penge",
+	"Close Control_tooltip": "Control when the menu closes itself. Useful for glitches which require the menu to be open when in a cutscene."
 }
 

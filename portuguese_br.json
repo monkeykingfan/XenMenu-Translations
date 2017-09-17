@@ -661,5 +661,6 @@
 	"Drop Money": "Drop Dinheiro",
 	"Send Kamikaze Jet": "Enviar Jato Kamikaze",
 	"MONEY DROPS": "DROPS DE DINHEIRO",
-	"Money": "Dinheiro"
+	"Money": "Dinheiro",
+	"Close Control_tooltip": "Control when the menu closes itself. Useful for glitches which require the menu to be open when in a cutscene."
 }
