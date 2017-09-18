@@ -663,5 +663,5 @@
 	"Send Kamikaze Jet": "Lähetä itsemurhalentäjä",
 	"MONEY DROPS": "RAHAN PUDOTUS",
 	"Money": "Raha",
-	"Close Control_tooltip": "Control when the menu closes itself. Useful for glitches which require the menu to be open when in a cutscene."
+	"Close Control_tooltip": "Säädä, milloin menu sulkeutuu itsestään. Kätevä jos käyttää glitchejä, joissa menu tulee olla auki esim. videopätkien aikana."
 }
