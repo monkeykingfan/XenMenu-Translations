@@ -501,7 +501,7 @@
 	"Search for an Object": "Søk etter Objekt",
 	"Search for an Object_tooltip": "Åpner et søkefelt hvor du kan søke etter objekter.",
 	"Reset Search": "Nullstill Søk",
-	"ChangeEntityName_tooltip": "~b~[G]~w~ Gi nytt navn",
+	"ChangeEntityName_tooltip": "~b~[R]~w~ Gi nytt navn",
 	"Delete Entity": "Slett Enhet",
 	"Objects": "Objekter",
 	"Vehicles": "Kjøretøy",
