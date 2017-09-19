@@ -2,7 +2,7 @@
 	"_AUTHOR": "Rysholt & Zmyle_",
 	"_DISPLAY_NAME": "Spanish",
 	"_LOCK_ICON": "\u03A9",
-	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~∑~w~ developer content, explosion loop, and more!",
+	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~\u2211~w~ developer content, explosion loop, and more!",
 
 	"Chalet London": "Chalet Londres",
 	"House Script": "Script de la Casa",
@@ -355,7 +355,7 @@
 	"Vision Effects": "Efectos de Vision",
 	"Jump Around Mode": "Modo Saltar Alrededor",
 	"Unlock Dev Content": "Desbloquear Contenido Programador",
-	"Unlock Dev Content_tooltip": "Desbloquea SCTV, prendas como la ∑ Developer T-Shirt, y probablemente algunas mas cosas. Esto no se considera peligroso, pero se debe tener cuidado.",
+	"Unlock Dev Content_tooltip": "Desbloquea SCTV, prendas como la \u2211 Developer T-Shirt, y probablemente algunas mas cosas. Esto no se considera peligroso, pero se debe tener cuidado.",
 	"Blackout": "Apagon",
 	"No Restricted Zones": "Sin Zonas Restringidas",
 	"Mobile Radio": "Radio Movil",

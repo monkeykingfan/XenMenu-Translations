@@ -2,7 +2,7 @@
 	"_AUTHOR": "lelonoly",
 	"_DISPLAY_NAME": "Russian",
 	"_LOCK_ICON": "\u03A9",
-	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~∑~w~ developer content, explosion loop, and more!",
+	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~\u2211~w~ developer content, explosion loop, and more!",
 
 	"Chalet London": "Chalet London",
 	"House Script": "House Script",
@@ -356,7 +356,7 @@
 	"Vision Effects": "Эффекты Зрения",
 	"Jump Around Mode": "Пом Пом",
 	"Unlock Dev Content": "Разблокировать Dev Контент",
-	"Unlock Dev Content_tooltip": "Разблокирует SCTV, предметы одежды, такие как ∑ Developer футболки, и, возможно, еще несколько вещей. Это не считается рискованным, но следует проявлять осторожность.",
+	"Unlock Dev Content_tooltip": "Разблокирует SCTV, предметы одежды, такие как \u2211 Developer футболки, и, возможно, еще несколько вещей. Это не считается рискованным, но следует проявлять осторожность.",
 	"Blackout": "Блэкаут",
 	"No Restricted Zones": "Анти-Запретные Зоны",
 	"Mobile Radio": "Мобильное Радио",

@@ -2,7 +2,7 @@
 	"_AUTHOR": "DNSMaster",
 	"_DISPLAY_NAME": "Finnish",
 	"_LOCK_ICON": "\u03A9",
-	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~∑~w~ developer content, explosion loop, and more!",
+	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~\u2211~w~ developer content, explosion loop, and more!",
 
 	"Chalet London": "Chalet London",
 	"House Script": "House Script",
@@ -359,7 +359,7 @@
 	"Vision Effects": "Näkyvyysefektit",
 	"Jump Around Mode": "Hypi ympäri-moodi",
 	"Unlock Dev Content": "Avaa kehittäjäsisältö",
-	"Unlock Dev Content_tooltip": "Salli SCTV, ja käytä ∑ paitoja jne. ja ehkä jotain lisää. Tätä ei olla todettu vaaralliseksi mutta riski on aina.",
+	"Unlock Dev Content_tooltip": "Salli SCTV, ja käytä \u2211 paitoja jne. ja ehkä jotain lisää. Tätä ei olla todettu vaaralliseksi mutta riski on aina.",
 	"Blackout": "Valot pois",
 	"No Restricted Zones": "Ei rajoitettuja alueita",
 	"Mobile Radio": "Kännykkäradio",

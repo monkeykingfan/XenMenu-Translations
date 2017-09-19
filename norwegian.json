@@ -2,7 +2,7 @@
 	"_AUTHOR": "Plebbimon",
 	"_DISPLAY_NAME": "Norwegian",
 	"_LOCK_ICON": "\u03A9",
-	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~∑~w~ developer content, explosion loop, and more!",
+	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~\u2211~w~ developer content, explosion loop, and more!",
 
 	"Chalet London": "Chalet London",
 	"House Script": "House Script",
@@ -354,7 +354,7 @@
 	"Vision Effects": "Synseffekter",
 	"Jump Around Mode": "Svampebob-Modus?",
 	"Unlock Dev Content": "Lås Opp Utvikler-Innhold",
-	"Unlock Dev Content_tooltip": "Låser opp Social Club TV, Klær som ∑ Developer T-Shirt, og litt andre ting. Dette skal i utgangspunktet ikke være risky, men forsiktighet anbefales.",
+	"Unlock Dev Content_tooltip": "Låser opp Social Club TV, Klær som \u2211 Developer T-Shirt, og litt andre ting. Dette skal i utgangspunktet ikke være risky, men forsiktighet anbefales.",
 	"Blackout": "Blackout",
 	"No Restricted Zones": "Ingen Avgrensede Områder",
 	"Mobile Radio": "Radio i Lommen",

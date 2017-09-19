@@ -2,7 +2,7 @@
 	"_AUTHOR": "xVince",
 	"_DISPLAY_NAME": "Romanian",
 	"_LOCK_ICON": "\u03A9",
-	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~∑~w~ developer content, explosion loop, and more!",
+	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~\u2211~w~ developer content, explosion loop, and more!",
 
 	"Chalet London": "Chalet London",
 	"House Script": "Scriptul Casei",
@@ -354,7 +354,7 @@
 	"Vision Effects": "Efecte de viziune",
 	"Jump Around Mode": "Modul Sari Imprejur",
 	"Unlock Dev Content": "Deblocati continutul Dev",
-	"Unlock Dev Content_tooltip": "Deblocheaza SCTV, obiecte de îmbracaminte, cum ar fi T-Shirtul pentru dezvoltatori ∑, probabil si alte lucruri. Acest lucru nu este considerat a fi riscant, dar trebuie luata precautie.",
+	"Unlock Dev Content_tooltip": "Deblocheaza SCTV, obiecte de îmbracaminte, cum ar fi T-Shirtul pentru dezvoltatori \u2211, probabil si alte lucruri. Acest lucru nu este considerat a fi riscant, dar trebuie luata precautie.",
 	"Blackout": "Blackout",
 	"No Restricted Zones": "Nu exista zone restrictionate",
 	"Mobile Radio": "Radio Mobil",

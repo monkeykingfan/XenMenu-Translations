@@ -2,7 +2,7 @@
 	"_AUTHOR": "XenMenu",
 	"_DISPLAY_NAME": "English",
 	"_LOCK_ICON": "\u03A9",
-	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~∑~w~ developer content, explosion loop, and more!",
+	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~\u2211~w~ developer content, explosion loop, and more!",
 
 	"Chalet London": "Chalet London",
 	"House Script": "House Script",
@@ -354,7 +354,7 @@
 	"Vision Effects": "Vision Effects",
 	"Jump Around Mode": "Jump Around Mode",
 	"Unlock Dev Content": "Unlock Dev Content",
-	"Unlock Dev Content_tooltip": "Unlocks SCTV, clothing items such as the ∑ Developer T-Shirt, and probably some more stuff. This is not considered to be risky, but caution should be taken.",
+	"Unlock Dev Content_tooltip": "Unlocks SCTV, clothing items such as the \u2211 Developer T-Shirt, and probably some more stuff. This is not considered to be risky, but caution should be taken.",
 	"Blackout": "Blackout",
 	"No Restricted Zones": "No Restricted Zones",
 	"Mobile Radio": "Mobile Radio",

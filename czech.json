@@ -2,7 +2,7 @@
 	"_AUTHOR": "SkyCityCZ",
 	"_DISPLAY_NAME": "Czech",
 	"_LOCK_ICON": "\u03A9",
-	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~∑~w~ developer content, explosion loop, and more!",
+	"vip-locked": "This is a VIP-only feature. Go to ~b~https://xenmenu.com/~w~ and upgrade your account to unlock $2k money bag drops, $600k stealth money bag drops, ~y~\u2211~w~ developer content, explosion loop, and more!",
 
 	"Chalet London": "Chalet London",
 	"House Script": "House Script",
@@ -354,7 +354,7 @@
 	"Vision Effects": "Efekty Pohledu",
 	"Jump Around Mode": "Skakat Kolem",
 	"Unlock Dev Content": "Odemcit Vybaveni Vyvojaru",
-	"Unlock Dev Content_tooltip": "Odemce SCTV, Obleceni jako _ Developer T-Shirt, a pravdepodobne vice veci. Toto neni brano riskantnim, ale je nebezpeci ho nosit.",
+	"Unlock Dev Content_tooltip": "Odemce SCTV, Obleceni jako \u2211 Developer T-Shirt, a pravdepodobne vice veci. Toto neni brano riskantnim, ale je nebezpeci ho nosit.",
 	"Blackout": "Zatmeni",
 	"No Restricted Zones": "Zadne Zakazane Zony",
 	"Mobile Radio": "Mobilni Radio",
