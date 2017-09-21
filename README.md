@@ -19,12 +19,11 @@ To test your translation before making a commit, please see the instructions bel
 5. Go to Settings > Language and select the language you just updated or added.
 
 ### Contact
-If you're running into issues regarding translations or have general questions, feel free to contact **Senex** on [Discord](https://xenmenu.com/discord/) or [GitHub](https://github.com/Senexis).
+If you're running into issues regarding translations or have general questions, feel free to contact us on [Discord](https://xenmenu.com/discord/).
 
 ### Credits
 We appreciate all of you who made a contribution!
 
-- **Translation Manager:** Senex
 - **Autistic:** DomBooker ⭐
 - **Czech**: SkyCityCZ
 - **Danish:** Rysholt
