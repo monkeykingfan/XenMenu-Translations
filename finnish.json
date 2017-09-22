@@ -655,5 +655,7 @@
 	"Send Kamikaze Jet": "Lähetä itsemurhalentäjä",
 	"MONEY DROPS": "RAHAN PUDOTUS",
 	"Money": "Raha",
-	"Close Control_tooltip": "Säädä, milloin menu sulkeutuu itsestään. Kätevä jos käyttää glitchejä, joissa menu tulee olla auki esim. videopätkien aikana."
+	"Close Control_tooltip": "Säädä, milloin menu sulkeutuu itsestään. Kätevä jos käyttää glitchejä, joissa menu tulee olla auki esim. videopätkien aikana.",
+	"Amount of Bags": "Amount of Bags",
+	"Amount of Bags_tooltip": "Too many bags may crash your game."
 }

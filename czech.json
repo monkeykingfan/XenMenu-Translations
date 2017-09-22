@@ -654,5 +654,7 @@
 	"Send Kamikaze Jet": "Poslat Kamikaze Stihacku",
 	"MONEY DROPS": "DROPY PENEZ",
 	"Money": "Penize",
-	"Close Control_tooltip": "Ovlada kdy se menu zavre samo. Dobre pro glitche ktere potrebuji otevrene menu v cutscene."
+	"Close Control_tooltip": "Ovlada kdy se menu zavre samo. Dobre pro glitche ktere potrebuji otevrene menu v cutscene.",
+	"Amount of Bags": "Amount of Bags",
+	"Amount of Bags_tooltip": "Too many bags may crash your game."
 }

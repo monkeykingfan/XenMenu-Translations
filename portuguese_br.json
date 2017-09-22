@@ -654,5 +654,7 @@
 	"Send Kamikaze Jet": "Enviar Jato Kamikaze",
 	"MONEY DROPS": "DROPS DE DINHEIRO",
 	"Money": "Dinheiro",
-	"Close Control_tooltip": "Controle quando o menu se fecha. Útil para falhas que exigem que o menu seja aberto quando em uma cutscene."
+	"Close Control_tooltip": "Controle quando o menu se fecha. Útil para falhas que exigem que o menu seja aberto quando em uma cutscene.",
+	"Amount of Bags": "Amount of Bags",
+	"Amount of Bags_tooltip": "Too many bags may crash your game."
 }

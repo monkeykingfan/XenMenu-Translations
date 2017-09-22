@@ -654,5 +654,7 @@
 	"Send Kamikaze Jet": "派遣九頭蛇自殺襲擊",
 	"MONEY DROPS": "掉落錢袋",
 	"Money": "錢！",
-	"Close Control_tooltip": "控制菜單何時自動關閉顯示. 對一些需要在過場動畫中顯示菜單的漏洞很有用（例如存車）."
+	"Close Control_tooltip": "控制菜單何時自動關閉顯示. 對一些需要在過場動畫中顯示菜單的漏洞很有用（例如存車）.",
+	"Amount of Bags": "Amount of Bags",
+	"Amount of Bags_tooltip": "Too many bags may crash your game."
 }

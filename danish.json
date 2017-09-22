@@ -654,6 +654,7 @@
 	"Send Kamikaze Jet": "Send Kamikaze Jet",
 	"MONEY DROPS": "PENGE DROPS",
 	"Money": "Penge",
-	"Close Control_tooltip": "Kontroller hvornår menuen lukker af sig selv. Brugbart for glitches som blandt andet kræver at menuen er åben i cutscenes."
+	"Close Control_tooltip": "Kontroller hvornår menuen lukker af sig selv. Brugbart for glitches som blandt andet kræver at menuen er åben i cutscenes.",
+	"Amount of Bags": "Amount of Bags",
+	"Amount of Bags_tooltip": "Too many bags may crash your game."
 }
-

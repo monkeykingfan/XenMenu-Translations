@@ -655,5 +655,7 @@
 	"Send Kamikaze Jet": "Kamikaze jet yolla",
 	"MONEY DROPS": "Para dusurme",
 	"Money": "Para",
-	"Close Control_tooltip": "Menu kendini kapattigi zaman kontrol etmenizi saglar. Yuklemelerde menuyu kullanmak icin ise yarayabilir."
+	"Close Control_tooltip": "Menu kendini kapattigi zaman kontrol etmenizi saglar. Yuklemelerde menuyu kullanmak icin ise yarayabilir.",
+	"Amount of Bags": "Amount of Bags",
+	"Amount of Bags_tooltip": "Too many bags may crash your game."
 }

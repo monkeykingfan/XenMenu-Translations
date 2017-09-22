@@ -432,7 +432,7 @@
 	"Alpha": "Alfa",
 	"Font": "Skrifttype",
 	"Language": "Språk",
-	
+
 	"0comment_NEW_IN_XEN_1.0.1": "DONT CHANGE THIS",
 	"Read Translation File": "Les Oversettelsesfil",
 	"Flags": "Flagg",
@@ -654,5 +654,7 @@
 	"Send Kamikaze Jet": "Send Kamikaze-Jetfly",
 	"MONEY DROPS": "PENGEDROPP",
 	"Money": "Penger",
-	"Close Control_tooltip": "Kontrollér når menyen lukkes. Kan brukes til glitcher der det kreves menyvisning i en filmsekvens."
+	"Close Control_tooltip": "Kontrollér når menyen lukkes. Kan brukes til glitcher der det kreves menyvisning i en filmsekvens.",
+	"Amount of Bags": "Amount of Bags",
+	"Amount of Bags_tooltip": "Too many bags may crash your game."
 }
