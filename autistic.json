@@ -663,10 +663,6 @@
 	"Staff/Dev": "~b~secretees",
 	"Change Name": "who am i",
 	"Spawn Entities": "create ting",
-	"Amount of Bags": "Amount of Bags",
-	"Amount of Bags_tooltip": "Too many bags may crash your game.",
-	"Colours": "Colours",
-	"Hostile Colour": "Hostile Colour",
-	"Friendly Colour": "Friendly Colour",
-	"Colour Preview": "Colour Preview"
+	"Amount of Bags": "bag number
+	"Amount of Bags_tooltip": "too much bag crash ok
 }
