@@ -659,5 +659,10 @@
 	"Colours": "Colores",
 	"Hostile Colour": "Color del Host",
 	"Friendly Colour": "Color de Amigos",
-	"Colour Preview": "Previsualizacion de Color"
+	"Colour Preview": "Previsualizacion de Color",
+
+	"<comment>": "Do not remove the space from this options name.",
+	"Tunables ": "\u03A9 Tunables",
+	"Tunables _tooltip": "Go online to modify tunables!",
+	"Anti-Idle Kick": "Anti-Idle Kick"
 }
