@@ -655,5 +655,9 @@
 	"Money": "Dinero",
 	"Close Control_tooltip": "Control Para cuando se cierra el menu. Esto es util para cuando se buguea, pero se requiere que el menu este abierto cuando estes en una escena.",
 	"Amount of Bags": "Amount of Bags",
-	"Amount of Bags_tooltip": "Too many bags may crash your game."
+	"Amount of Bags_tooltip": "Too many bags may crash your game.",
+	"Colours": "Colours",
+	"Hostile Colour": "Hostile Colour",
+	"Friendly Colour": "Friendly Colour",
+	"Colour Preview": "Colour Preview"
 }

@@ -656,5 +656,9 @@
 	"Money": "Penger",
 	"Close Control_tooltip": "Kontrollér når menyen lukkes. Kan brukes til glitcher der det kreves menyvisning i en filmsekvens.",
 	"Amount of Bags": "Amount of Bags",
-	"Amount of Bags_tooltip": "Too many bags may crash your game."
+	"Amount of Bags_tooltip": "Too many bags may crash your game.",
+	"Colours": "Colours",
+	"Hostile Colour": "Hostile Colour",
+	"Friendly Colour": "Friendly Colour",
+	"Colour Preview": "Colour Preview"
 }

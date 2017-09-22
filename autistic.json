@@ -356,7 +356,7 @@
 	"Funny vehicles_tooltip": "XD IM DRIVING A TOILET",
 	"Vision Effects": "drugs",
 	"Jump Around Mode": "that one mode from menyoo",
-	"Unlock Dev Content": "make me dev",
+	"Unlock Dev Content": "make urself dev",
 	"Unlock Dev Content_tooltip": "force throwback",
 	"Blackout": "african american, out",
 	"No Restricted Zones": "i can go everywhere",
@@ -664,5 +664,9 @@
 	"Change Name": "who am i",
 	"Spawn Entities": "create ting",
 	"Amount of Bags": "Amount of Bags",
-	"Amount of Bags_tooltip": "Too many bags may crash your game."
+	"Amount of Bags_tooltip": "Too many bags may crash your game.",
+	"Colours": "Colours",
+	"Hostile Colour": "Hostile Colour",
+	"Friendly Colour": "Friendly Colour",
+	"Colour Preview": "Colour Preview"
 }

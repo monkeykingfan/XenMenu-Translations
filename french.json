@@ -657,5 +657,9 @@
 	"Money": "Money",
 	"Close Control_tooltip": "Control when the menu closes itself. Useful for glitches which require the menu to be open when in a cutscene.",
 	"Amount of Bags": "Amount of Bags",
-	"Amount of Bags_tooltip": "Too many bags may crash your game."
+	"Amount of Bags_tooltip": "Too many bags may crash your game.",
+	"Colours": "Colours",
+	"Hostile Colour": "Hostile Colour",
+	"Friendly Colour": "Friendly Colour",
+	"Colour Preview": "Colour Preview"
 }
