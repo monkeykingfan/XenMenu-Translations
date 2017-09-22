@@ -655,15 +655,15 @@
 	"MONEY DROPS": "掉落錢袋",
 	"Money": "錢！",
 	"Close Control_tooltip": "控制菜單何時自動關閉顯示. 對一些需要在過場動畫中顯示菜單的漏洞很有用（例如存車）.",
-	"Amount of Bags": "Amount of Bags",
-	"Amount of Bags_tooltip": "Too many bags may crash your game.",
-	"Colours": "Colours",
-	"Hostile Colour": "Hostile Colour",
-	"Friendly Colour": "Friendly Colour",
-	"Colour Preview": "Colour Preview",
+	"Amount of Bags": "錢袋數量",
+	"Amount of Bags_tooltip": "太多的錢袋會崩潰遊戲.",
+	"Colours": "顏色",
+	"Hostile Colour": "敵對顏色",
+	"Friendly Colour": "友方顏色",
+	"Colour Preview": "顏色預覽",
 
 	"<comment>": "Do not remove the space from this options name.",
-	"Tunables ": "\u03A9 Tunables",
-	"Tunables _tooltip": "Go online to modify tunables!",
-	"Anti-Idle Kick": "Anti-Idle Kick"
+	"Tunables ": "\u03A9 雜項",
+	"Tunables _tooltip": "進入綫上模式後啟用!",
+	"Anti-Idle Kick": "防掛機掉線"
 }
