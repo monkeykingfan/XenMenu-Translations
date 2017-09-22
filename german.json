@@ -656,14 +656,14 @@
 	"MONEY DROPS": "GELD-DROPS",
 	"Money": "Geld",
 	"Close Control_tooltip": "Kontrolliere wann sich das Menü von selbst schließt. Nützlich für Glitches in denen das Menü während Zwischensequenzen geöffnet sein muss.",
-	"Amount of Bags": "Amount of Bags",
-	"Amount of Bags_tooltip": "Too many bags may crash your game.",
-	"Colours": "Colours",
-	"Hostile Colour": "Hostile Colour",
-	"Friendly Colour": "Friendly Colour",
-	"Colour Preview": "Colour Preview",
-
-	"<comment> Do not remove the space from this options name."
+	"Amount of Bags": "Sack-Menge",
+	"Amount of Bags_tooltip": "Zu viele Säcke könnten dein Spiel zum Absturz bringen.",
+	"Colours": "Farben",
+	"Hostile Colour": "Gegner-Farbe",
+	"Friendly Colour": "Freund-Farbe",
+	"Colour Preview": "Farben-Vorschau",
+  
+	"<comment> Do not remove the space from this options name.",
 	"Tunables ": "\u03A9 Tunables",
 	"Tunables _tooltip": "Go online to modify tunables!",
 	"Anti-Idle Kick": "Anti-Idle Kick"
