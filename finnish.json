@@ -663,7 +663,7 @@
 	"Friendly Colour": "Ystävällisten väri",
 	"Colour Preview": "Värin esikatselu",
 
-	"<comment> Do not remove the space from this options name."
+	"<comment>": "Do not remove the space from this options name.",
 	"Tunables ": "\u03A9 Pelin muuttujat",
 	"Tunables _tooltip": "Mene moninpeliin ja muokkaa pelin muuttujia!",
 	"Anti-Idle Kick": "Ei joutilaspotkimista"
