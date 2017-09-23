@@ -655,15 +655,15 @@
 	"MONEY DROPS": "DROPY PENEZ",
 	"Money": "Penize",
 	"Close Control_tooltip": "Ovlada kdy se menu zavre samo. Dobre pro glitche ktere potrebuji otevrene menu v cutscene.",
-	"Amount of Bags": "Amount of Bags",
-	"Amount of Bags_tooltip": "Too many bags may crash your game.",
-	"Colours": "Colours",
-	"Hostile Colour": "Hostile Colour",
-	"Friendly Colour": "Friendly Colour",
-	"Colour Preview": "Colour Preview",
+	"Amount of Bags": "Pocet pytlu",
+	"Amount of Bags_tooltip": "Prilis mnoho pytlu muze crashnout hru.",
+	"Colours": "Barvy",
+	"Hostile Colour": "Nepratelska Barva",
+	"Friendly Colour": "Pratelska Barva",
+	"Colour Preview": "Ukazka Barvy",
 
 	"<comment>": "Do not remove the space from this options name.",
-	"Tunables ": "\u03A9 Tunables",
-	"Tunables _tooltip": "Go online to modify tunables!",
-	"Anti-Idle Kick": "Anti-Idle Kick"
+	"Tunables ": "\u03A9 Tuning",
+	"Tunables _tooltip": "Jdi online k modifikovami tuningu!",
+	"Anti-Idle Kick": "Anti-Nepritomnost Vyhozeni"
 }
