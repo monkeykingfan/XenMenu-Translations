@@ -669,5 +669,7 @@
 	"<comment>": "Do not remove the space from this options name.",
 	"Tunables ": "\u03A9 tune tables",
 	"Tunables _tooltip": "go online dumb",
-	"Anti-Idle Kick": "anti wank break kick"
+	"Anti-Idle Kick": "anti wank break kick",
+	"Controller Support": "Controller Support",
+	"Controller Support_tooltip": "Toggles whether features like Drift and Hancock mode can be triggered with the controller. Navigation works without this being enabled."
 }

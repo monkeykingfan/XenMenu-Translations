@@ -665,5 +665,7 @@
 	"<comment>": "Do not remove the space from this options name.",
 	"Tunables ": "\u03A9 Tuning",
 	"Tunables _tooltip": "Jdi online k modifikovami tuningu!",
-	"Anti-Idle Kick": "Anti-Nepritomnost Vyhozeni"
+	"Anti-Idle Kick": "Anti-Nepritomnost Vyhozeni",
+	"Controller Support": "Controller Support",
+	"Controller Support_tooltip": "Toggles whether features like Drift and Hancock mode can be triggered with the controller. Navigation works without this being enabled."
 }

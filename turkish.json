@@ -666,5 +666,7 @@
 	"<comment>": "Bu ayar adini buradan silmeyin.",
 	"Tunables ": "\u03A9 Cesitli",
 	"Tunables _tooltip": "Cesitli secenekleri degistirmek icin cevrimici oynayin!",
-	"Anti-Idle Kick": "Hareketsiz kalinca atilmayi engeller"
+	"Anti-Idle Kick": "Hareketsiz kalinca atilmayi engeller",
+	"Controller Support": "Controller Support",
+	"Controller Support_tooltip": "Toggles whether features like Drift and Hancock mode can be triggered with the controller. Navigation works without this being enabled."
 }

@@ -665,5 +665,7 @@
 	"<comment>": "Ikke fjern mellomrom fra navnet på denne instillingen. I am not supposed to translate this, right?",
 	"Tunables ": "\u03A9 Justerbart",
 	"Tunables _tooltip": "Gå online for å modifisere justeringer!",
-	"Anti-Idle Kick": "Anti-Inaktiv Kick"
+	"Anti-Idle Kick": "Anti-Inaktiv Kick",
+	"Controller Support": "Controller Support",
+	"Controller Support_tooltip": "Toggles whether features like Drift and Hancock mode can be triggered with the controller. Navigation works without this being enabled."
 }

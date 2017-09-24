@@ -666,5 +666,7 @@
 	"<comment>": "Do not remove the space from this options name.",
 	"Tunables ": "\u03A9 Pelin muuttujat",
 	"Tunables _tooltip": "Mene moninpeliin ja muokkaa pelin muuttujia!",
-	"Anti-Idle Kick": "Ei joutilaspotkimista"
+	"Anti-Idle Kick": "Ei joutilaspotkimista",
+	"Controller Support": "Controller Support",
+	"Controller Support_tooltip": "Toggles whether features like Drift and Hancock mode can be triggered with the controller. Navigation works without this being enabled."
 }
