@@ -667,6 +667,6 @@
 	"Tunables ": "\u03A9 Tunebares",
 	"Tunables _tooltip": "Gehe Online um Tunebares zu ändern!",
 	"Anti-Idle Kick": "Anti AFK-Kick",
-	"Controller Support": "Controller Support",
-	"Controller Support_tooltip": "Toggles whether features like Drift and Hancock mode can be triggered with the controller. Navigation works without this being enabled."
+	"Controller Support": "Controller-Unterstützung",
+	"Controller Support_tooltip": "Ermöglicht die Bedienung des Drift oder Hancock Modus mit dem Controller. Die Navigation des Menüs funktioniert auch, wenn diese Option ausgeschaltet ist."
 }
