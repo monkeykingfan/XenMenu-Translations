@@ -666,6 +666,6 @@
 	"Tunables ": "\u03A9 雜項",
 	"Tunables _tooltip": "進入綫上模式後啟用!",
 	"Anti-Idle Kick": "防掛機掉線",
-	"Controller Support": "Controller Support",
-	"Controller Support_tooltip": "Toggles whether features like Drift and Hancock mode can be triggered with the controller. Navigation works without this being enabled."
+	"Controller Support": "手柄支持",
+	"Controller Support_tooltip": "某些功能的手柄快捷鍵是否開啟,手柄操控菜單於這個無關."
 }
